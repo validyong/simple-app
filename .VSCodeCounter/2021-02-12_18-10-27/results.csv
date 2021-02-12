@@ -1,0 +1,28 @@
+"filename", "language", "JSON", "Markdown", "XML", "CSS", "TypeScript", "TypeScript React", "HTML", "Log", "comment", "blank", "total"
+"c:\work\mypractice\simple-app\README.md", "Markdown", 0, 26, 0, 0, 0, 0, 0, 0, 0, 21, 47
+"c:\work\mypractice\simple-app\install.md", "Markdown", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 12
+"c:\work\mypractice\simple-app\package.json", "JSON", 54, 0, 0, 0, 0, 0, 0, 0, 0, 1, 55
+"c:\work\mypractice\simple-app\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 20, 0, 23, 1, 44
+"c:\work\mypractice\simple-app\public\manifest.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"c:\work\mypractice\simple-app\src\App.css", "CSS", 0, 0, 0, 33, 0, 0, 0, 0, 0, 6, 39
+"c:\work\mypractice\simple-app\src\App.test.tsx", "TypeScript React", 0, 0, 0, 0, 0, 17, 0, 0, 5, 4, 26
+"c:\work\mypractice\simple-app\src\App.tsx", "TypeScript React", 0, 0, 0, 0, 0, 37, 0, 0, 0, 9, 46
+"c:\work\mypractice\simple-app\src\components\error\Error.test.tsx", "TypeScript React", 0, 0, 0, 0, 0, 3, 0, 0, 0, 2, 5
+"c:\work\mypractice\simple-app\src\components\error\Error.tsx", "TypeScript React", 0, 0, 0, 0, 0, 10, 0, 0, 0, 1, 11
+"c:\work\mypractice\simple-app\src\components\home\Home.test.tsx", "TypeScript React", 0, 0, 0, 0, 0, 3, 0, 0, 0, 2, 5
+"c:\work\mypractice\simple-app\src\components\home\Home.tsx", "TypeScript React", 0, 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"c:\work\mypractice\simple-app\src\components\login\Login.test.tsx", "TypeScript React", 0, 0, 0, 0, 0, 3, 0, 0, 0, 2, 5
+"c:\work\mypractice\simple-app\src\components\login\Login.tsx", "TypeScript React", 0, 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"c:\work\mypractice\simple-app\src\components\welcome\Welcome.css", "CSS", 0, 0, 0, 33, 0, 0, 0, 0, 0, 6, 39
+"c:\work\mypractice\simple-app\src\components\welcome\Welcome.test.tsx", "TypeScript React", 0, 0, 0, 0, 0, 3, 0, 0, 0, 2, 5
+"c:\work\mypractice\simple-app\src\components\welcome\Welcome.tsx", "TypeScript React", 0, 0, 0, 0, 0, 32, 0, 0, 0, 4, 36
+"c:\work\mypractice\simple-app\src\components\welcome\logo.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\work\mypractice\simple-app\src\index.css", "CSS", 0, 0, 0, 12, 0, 0, 0, 0, 0, 2, 14
+"c:\work\mypractice\simple-app\src\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 12, 0, 0, 3, 3, 18
+"c:\work\mypractice\simple-app\src\logo.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\work\mypractice\simple-app\src\react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\work\mypractice\simple-app\src\reportWebVitals.ts", "TypeScript", 0, 0, 0, 0, 13, 0, 0, 0, 0, 3, 16
+"c:\work\mypractice\simple-app\src\setupTests.ts", "TypeScript", 0, 0, 0, 0, 1, 0, 0, 0, 4, 1, 6
+"c:\work\mypractice\simple-app\tsconfig.json", "JSON", 26, 0, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"c:\work\mypractice\simple-app\yarn-error.log", "Log", 0, 0, 0, 0, 0, 0, 0, 10272, 0, 1518, 11790
+"Total", "-", 105, 38, 2, 78, 14, 134, 20, 10272, 36, 1595, 12294

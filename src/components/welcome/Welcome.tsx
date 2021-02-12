@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from '../../../src/logo.svg'
 import './Welcome.css'
-import {Button} from '@material-ui/core';
-import {Link} from 'react-router-dom';
+import { Button, Box } from '@material-ui/core';
+import { Link } from 'react-router-dom';
 
 function Welcome() {
     return (
@@ -12,14 +12,22 @@ function Welcome() {
                 <p>
                     THE Library System
                 </p>
-                <Link to="/login" style={{ textDecoration: 'none' }}>
-                <Button variant="outlined" color="primary">
-                    Login
-                </Button>
-                </Link>
-                <Button variant="outlined" color="primary">
-                    Sign Up
-                </Button>
+                <Box p={1}>
+                    <Link to="/login" style={{ textDecoration: 'none' }}>
+                        <Button variant="outlined" color="primary">
+                            Login
+                        </Button>
+                    </Link>
+                </Box>
+
+                <Box p={1}>
+                    <Link to="/sign-up" style={{ textDecoration: 'none' }}>
+                        <Button variant="outlined" color="primary">
+                            Sign Up
+                        </Button>
+                    </Link>
+                </Box>
+
             </header>
         </div>
     );

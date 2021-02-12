@@ -4,6 +4,7 @@ import './App.css';
 import { HashRouter as Router, Route, Link, Switch } from 'react-router-dom'
 import Welcome from './components/welcome/Welcome';
 import Login from './components/login/Login';
+import Error from './components/error/Error';
 
 function App() {
     return (
@@ -15,8 +16,9 @@ function App() {
 
                     </nav>
 
-                    <Route path="/welcome" component={Welcome}/>
+                    <Route exact path="/welcome" component={Welcome}/>
                     <Route path="/login" component={Login}/>
+                    <Route component={Error}/>
 
 
                 </div>

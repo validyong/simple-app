@@ -1,0 +1,64 @@
+Date : 2021-02-12 18:10:27
+Directory : c:\work\mypractice\simple-app
+Total : 26 files,  10663 codes, 36 comments, 1595 blanks, all 12294 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Log              |          1 |     10,272 |          0 |      1,518 |     11,790 |
+| TypeScript React |         11 |        134 |          8 |         33 |        175 |
+| JSON             |          3 |        105 |          0 |          3 |        108 |
+| CSS              |          3 |         78 |          0 |         14 |         92 |
+| Markdown         |          2 |         38 |          0 |         21 |         59 |
+| HTML             |          1 |         20 |         23 |          1 |         44 |
+| TypeScript       |          3 |         14 |          5 |          5 |         24 |
+| XML              |          2 |          2 |          0 |          0 |          2 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |         26 |     10,663 |         36 |      1,595 |     12,294 |
+| public                                                                |          2 |         45 |         23 |          2 |         70 |
+| src                                                                   |         19 |        228 |         13 |         52 |        293 |
+| src\components                                                        |         10 |        102 |          0 |         23 |        125 |
+| src\components\error                                                  |          2 |         13 |          0 |          3 |         16 |
+| src\components\home                                                   |          2 |         10 |          0 |          4 |         14 |
+| src\components\login                                                  |          2 |         10 |          0 |          4 |         14 |
+| src\components\welcome                                                |          4 |         69 |          0 |         12 |         81 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                              | language         | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\work\mypractice\simple-app\README.md                               | Markdown         |         26 |          0 |         21 |         47 |
+| c:\work\mypractice\simple-app\install.md                              | Markdown         |         12 |          0 |          0 |         12 |
+| c:\work\mypractice\simple-app\package.json                            | JSON             |         54 |          0 |          1 |         55 |
+| c:\work\mypractice\simple-app\public\index.html                       | HTML             |         20 |         23 |          1 |         44 |
+| c:\work\mypractice\simple-app\public\manifest.json                    | JSON             |         25 |          0 |          1 |         26 |
+| c:\work\mypractice\simple-app\src\App.css                             | CSS              |         33 |          0 |          6 |         39 |
+| c:\work\mypractice\simple-app\src\App.test.tsx                        | TypeScript React |         17 |          5 |          4 |         26 |
+| c:\work\mypractice\simple-app\src\App.tsx                             | TypeScript React |         37 |          0 |          9 |         46 |
+| c:\work\mypractice\simple-app\src\components\error\Error.test.tsx     | TypeScript React |          3 |          0 |          2 |          5 |
+| c:\work\mypractice\simple-app\src\components\error\Error.tsx          | TypeScript React |         10 |          0 |          1 |         11 |
+| c:\work\mypractice\simple-app\src\components\home\Home.test.tsx       | TypeScript React |          3 |          0 |          2 |          5 |
+| c:\work\mypractice\simple-app\src\components\home\Home.tsx            | TypeScript React |          7 |          0 |          2 |          9 |
+| c:\work\mypractice\simple-app\src\components\login\Login.test.tsx     | TypeScript React |          3 |          0 |          2 |          5 |
+| c:\work\mypractice\simple-app\src\components\login\Login.tsx          | TypeScript React |          7 |          0 |          2 |          9 |
+| c:\work\mypractice\simple-app\src\components\welcome\Welcome.css      | CSS              |         33 |          0 |          6 |         39 |
+| c:\work\mypractice\simple-app\src\components\welcome\Welcome.test.tsx | TypeScript React |          3 |          0 |          2 |          5 |
+| c:\work\mypractice\simple-app\src\components\welcome\Welcome.tsx      | TypeScript React |         32 |          0 |          4 |         36 |
+| c:\work\mypractice\simple-app\src\components\welcome\logo.svg         | XML              |          1 |          0 |          0 |          1 |
+| c:\work\mypractice\simple-app\src\index.css                           | CSS              |         12 |          0 |          2 |         14 |
+| c:\work\mypractice\simple-app\src\index.tsx                           | TypeScript React |         12 |          3 |          3 |         18 |
+| c:\work\mypractice\simple-app\src\logo.svg                            | XML              |          1 |          0 |          0 |          1 |
+| c:\work\mypractice\simple-app\src\react-app-env.d.ts                  | TypeScript       |          0 |          1 |          1 |          2 |
+| c:\work\mypractice\simple-app\src\reportWebVitals.ts                  | TypeScript       |         13 |          0 |          3 |         16 |
+| c:\work\mypractice\simple-app\src\setupTests.ts                       | TypeScript       |          1 |          4 |          1 |          6 |
+| c:\work\mypractice\simple-app\tsconfig.json                           | JSON             |         26 |          0 |          1 |         27 |
+| c:\work\mypractice\simple-app\yarn-error.log                          | Log              |     10,272 |          0 |      1,518 |     11,790 |
+| Total                                                                 |                  |     10,663 |         36 |      1,595 |     12,294 |
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
