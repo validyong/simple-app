@@ -1,11 +1,11 @@
-function Error() {
+function Book() {
     return (
         <div>
             <p>
-                This is an Error.
+                This is an Book.
             </p>
         </div>
     );
 }
 
-export default Error;
+export default Book;
