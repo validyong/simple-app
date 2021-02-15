@@ -9,5 +9,6 @@ yarn add @types/material-ui
 yarn add @types/react-redux
 yarn add @types/react-router-dom
 yarn add react-router-dom
-yarn add @material-ui/core
+yarn add @material-ui/coreyarn add axios
+
 ```
