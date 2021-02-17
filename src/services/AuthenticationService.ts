@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = 'http://localhost:8080'
+const API_URL = 'http://localhost:8080/auth'
 
 export const USER_ID_SESSION_ATTRIBUTE_NAME = 'authenticatedUser'
 

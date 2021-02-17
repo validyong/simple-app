@@ -1,6 +1,8 @@
 import React, { useReducer, useEffect } from 'react';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 
+import AuthenticationService from '../../services/AuthenticationService';
+
 import TextField from '@material-ui/core/TextField';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
@@ -110,6 +112,12 @@ function Login() {
     }, [state.userId, state.password]);
 
     const handleLogin = () => {
+        AuthenticationService
+        .executeJwtAuthenticationService(state.userId, state.password)
+        .then((response) => {
+            AuthenticationService.registerSuccessfulLoginForJwt(state.userId, response.data.token)
+            
+        })
         if (state.userId === 'unira' && state.password === 'unira') {
             dispatch({
                 type: 'loginSuccess',

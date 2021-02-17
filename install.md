@@ -10,5 +10,6 @@ yarn add @types/react-redux
 yarn add @types/react-router-dom
 yarn add react-router-dom
 yarn add @material-ui/coreyarn add axios
-
+yarn add redux react-redux
+yarn add redux-thunk
 ```
