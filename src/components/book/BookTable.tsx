@@ -10,6 +10,7 @@ import DeleteIcon from '@material-ui/icons/Delete';
 import Typography from '@material-ui/core/Typography';
 
 import { IBook } from './interface';
+import BookService from '../../services/BookService';
 
 interface IProps {
     books: Array<IBook>;
@@ -17,7 +18,15 @@ interface IProps {
     onDelete: (book: IBook) => void;
 }
 
+const reloadBookList = () => {
+    BookService.getAllBooks().then((response) => {
+
+    })
+}
+
 const BookTable: React.FunctionComponent<IProps> = props => {
+    console.log('BookTable.tsx');
+    console.log(props.books.length);
     return (
         <div>
             <Typography variant="h4" >User Details</Typography>

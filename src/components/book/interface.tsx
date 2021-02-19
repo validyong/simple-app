@@ -5,3 +5,7 @@ export interface IBook {
     price: number;
     genreCode: number;
 }
+
+export interface IBookResponse {
+    data: IBook
+}

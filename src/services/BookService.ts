@@ -1,10 +1,12 @@
 import axios from 'axios';
 
+import {IBook, IBookResponse} from '../components/book/interface';
+
 const BOOK_API_BASE_URL = "http://localhost:8080/book";
 
 class BookService {
     getAllBooks() {
-        return axios.get(BOOK_API_BASE_URL);
+        return axios.get<IBook[]>(BOOK_API_BASE_URL);
     }
 
     getBookByIsbn(isbn: string) {
